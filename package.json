@@ -1,0 +1,11 @@
+{
+  "name": "special_char",
+  "version": "1.0.0",
+  "description": "want to add / remove special chars from array of strings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sameer Gaikwad",
+  "license": "ISC"
+}
